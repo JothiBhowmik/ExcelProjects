@@ -1,4 +1,4 @@
-# Project Title
+# Project Title - Sales data analysis
 
 ## Overview
 
